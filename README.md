@@ -25,27 +25,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hensu0210/hensu0210/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">
-  Hello World!!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-</p>
+<p align="left">Hello World!!<br>- 🔭 I’m currently working on Game Making<br>- 🌱 I’m currently learning Unity, C#<br>- 🤔 I’m looking for help to improve my skills</p>
 
 ###
 <!--
